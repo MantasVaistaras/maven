@@ -1,2 +1,2 @@
 # maven
-Sample project to use with Maven
+Playing around with Maven
